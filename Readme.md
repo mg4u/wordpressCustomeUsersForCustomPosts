@@ -1,0 +1,1 @@
+This repository is a WordPress plugin creates 4 custom post types and 4 custom user roles each role can control only on post type, and other user role to register in the 4 posts types 
