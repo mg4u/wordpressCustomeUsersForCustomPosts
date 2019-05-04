@@ -1,0 +1,48 @@
+@font-face{font-family:GE-SS-Bold;src:url(../fonts/ArbFONTS-GE-SS-Text-Bold.otf)}
+@font-face{font-family:GE-SS-medium;src:url(../fonts/ArbFONTS-GE-SS-Text-Medium.otf)}
+@font-face{font-family:GE-SS-Light;src:url(../fonts/ArbFONTS-GE_SS_TEXT_LIGHT.otf)}
+body,html{direction:rtl;font-family:GE-SS-meduim;}
+.owl-carousel{direction: ltr}
+.list-account{text-align:left}
+.list-account .list-inline-item:not(:last-child)::after{right:unset;left:-8px}
+.right-navbar{text-align:right}
+.right-navbar .list-social{padding-left:unset;padding-right:26px}
+.right-navbar .list-social::before{left:unset;right:12px}
+.navbar-expand-lg .navbar-nav li.nav-item:not(:last-child){margin-left:23px;margin-right:0}
+.navbar-light .navbar-nav .nav-link:hover::before{left:50%;right:8px}
+.navbar-light .navbar-nav .nav-link::before{left:100%;right:8px}
+.about-text h2,.collection-card h6,.collection-details .collection-head,.collection-text h4.head-collection,.footer-head,.pages-title h4,.reviews-section .has-border .comment-reply-title,.saudi-vision h1{font-family:GE-SS-Bold}
+.list-cart{text-align: left;display: none;}
+.line-btn::before{transform: scaleY(-1);}
+.list-cart .line-btn img{margin-right: 0;margin-left: 5px;}
+.badge{right: unset;left: -9px;}
+.shopping-cart .shopping-cart-header .shopping-cart-total{float: left;}
+.shopping-cart .shopping-cart-items{padding-right: 0;}
+.shopping-cart .shopping-cart-items img{float: right; margin-left: 12px; margin-right: 0;}
+.shopping-cart .shopping-cart-items .item-price{float: right;margin-left: 8px;margin-right: 0;}
+.shopping-cart .shopping-cart-items .item-quantity{float: left;}
+.line-btn svg{left: unset;right: 27px;}
+.about-text{padding-left: 0;padding-right: 52px;}
+.about-text .paragraph{padding-right: 0;padding-left: 36px;}
+.vertical-text{left: unset;right: -56px; transform: rotate(90deg);}
+.left-line{left: unset;right: 0;}
+.h-line{left: unset;right: 26rem;transform: rotate(-90deg);}
+.owl-about .owl-stage-outer{transform:rotate(40deg);}
+.owl-about .owl-item{transform: rotate(-40deg);}
+.about-her .left-line, .clients .title .left-line{right: unset;left: 0;}
+.left-line{left: unset;right: 0;}
+.collection-text{padding-left: 6rem; padding-right: 0;}
+.collection-text h4.head-collection{text-align: left;}
+.collection-text h4.head-collection .h-line{left: unset;right: 54px;top: -23px;}
+.line-btn{padding-right: 62px;}
+.line-btn svg{left: unset; right: 27px; top: 18px;}
+.collections .left-line{right: unset;left: 78px;}
+.list-unstyled{padding-right: 0;}
+.list-footer-links li a i::before{content: "\f100"}
+#scroll-btn{right: unset;left: 30px;}
+.list-address li a i.fa-phone{transform: rotate(0);}
+.star-rating .list-inline-item{margin-left: 0;}
+.single-collection .price-quantaty .line-btn{margin-left: 0; margin-right: 30px;}
+.list-favourite li .heart{right: unset;left: 0;}
+.list-favourite li .cons-info{margin-left: 0;margin-right:20px;}
+.checkout-card .divider{border-left:2px solid #ddd;border-right: 0;}
